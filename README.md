@@ -1,16 +1,13 @@
 # Hi 👋 I'm Anjali Deshmukh
 
 💻 **Full Stack Developer (MERN)**
-🤖 Interested in **AI, Web Development, and Modern Cloud Technologies**
-📚 Computer Science Student | Always learning new tools and technologies
-
+Aspiring Software Developer with hands-on experience building scalable, responsive, and user-centric web applications using the MERN stack.
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently exploring **AI-powered web applications**
+* 🌱 Currently exploring ****DevOps tools
 * ⚡ Building scalable apps using **MERN Stack**
-* 🎤 Interested in **Voice AI, Generative AI, and Developer Tools**
 * 🧠 Passionate about **learning modern development workflows**
 
 ---
@@ -22,7 +19,7 @@
 * JavaScript
 * Python
 * SQL
-* C++
+* Scripting and styling languages (HTML5 & CSS3)
 
 ### 🌐 Frontend Development
 
@@ -31,19 +28,21 @@
 * CSS3
 * JavaScript (ES6+)
 * Responsive Web Design
+* Tailwind CSS
+* TypeScript
+* Zustand
 
 ### ⚙️ Backend Development
 
 * Node.js
 * Express.js
 * REST APIs
-* Authentication (JWT / OAuth basics)
+* Authentication (JWT / OAuth)
 
 ### 🗄️ Databases
 
 * MongoDB
 * PostgreSQL
-* MySQL
 
 ### ☁️ DevOps & Tools
 
@@ -65,30 +64,12 @@
 * Postman
 * GitHub Actions
 * npm / yarn
+* Render ,Vercel, Netlify
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalideshmukh969\&show_icons=true\&theme=radical)
-
----
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalideshmukh969\&layout=compact\&theme=radical)
-
----
-
-## 🏆 GitHub Achievements
-
-* 🦈 Pull Shark x2
-
----
+----
 
 ## 📚 Currently Learning
 
-* Advanced **System Design**
 * **Cloud Deployment**
 * **DevOps Practices**
 * **Scalable Backend Architectures**
@@ -98,22 +79,11 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/anjalideshmukh969
+* Liinkdin: https://www.linkedin.com/in/anjalideshmukh-
 
 ---
 
-⭐ *Always curious to learn new technologies and build impactful software.*
-
-
-<!--
-**anjalideshmukh969/anjalideshmukh969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+⭐ *Always curious to learn new technologies and build impactful softwares.*
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
