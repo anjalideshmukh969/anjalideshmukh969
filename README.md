@@ -49,7 +49,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 
 * Git
 * GitHub
-* CI/CD Basics
+* CI/CD pipeline Basics
 * Docker (Basic)
 * Linux CLI
 
@@ -57,6 +57,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 
 * Gemini API
 * Web Speech API
+* REST APIs
 * AI Integration in Web Apps
 
 ### 🧰 Developer Tools
@@ -64,7 +65,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 * VS Code
 * Postman
 * GitHub Actions
-* npm / yarn
+* npm,npx
 * Render ,Vercel, Netlify
 
 ----
@@ -73,7 +74,6 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 
 * **Cloud Deployment**
 * **DevOps Practices**
-* **Scalable Backend Architectures**
 
 ---
 
