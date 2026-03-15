@@ -1,6 +1,7 @@
 # Hi 👋 I'm Anjali Deshmukh
 
 💻 **Full Stack Developer (MERN)**
+
 Aspiring Software Developer with hands-on experience building scalable, responsive, and user-centric web applications using the MERN stack.
 ---
 
@@ -84,7 +85,3 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 ---
 
 ⭐ *Always curious to learn new technologies and build impactful softwares.*
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
