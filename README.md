@@ -86,7 +86,6 @@ https://portfolio-amber-nine-53.vercel.app/
 
 * GitHub: https://github.com/anjalideshmukh969
 * Liinkdin: https://www.linkedin.com/in/anjalideshmukh-
-
 ---
 
 ⭐ *Always curious to learn new technologies and build impactful softwares.*
