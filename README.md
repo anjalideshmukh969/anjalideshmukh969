@@ -7,7 +7,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 
 * 🌱 Currently exploring ****DevOps tools
 * ⚡ Building scalable apps using **MERN Stack**
-* 🧠 Passionate about **learning modern development workflows**
+* 🧠 Passionate about building scalable web applications and writing efficient code**
 
 ------
 
@@ -50,13 +50,18 @@ https://portfolio-amber-nine-53.vercel.app/
 * MongoDB
 * PostgreSQL
 
-### ☁️ DevOps & Tools
+### ☁️ DevOps & Developer Tools
 
 * Git
 * GitHub
 * CI/CD pipeline Basics
 * Docker (Basic)
 * Linux CLI
+* VS Code
+* Postman
+* GitHub Actions
+* npm,npx
+* Render ,Vercel, Netlify
 
 ### 🤖 AI & APIs
 
@@ -65,22 +70,7 @@ https://portfolio-amber-nine-53.vercel.app/
 * REST APIs
 * AI Integration in Web Apps
 
-### 🧰 Developer Tools
-
-* VS Code
-* Postman
-* GitHub Actions
-* npm,npx
-* Render ,Vercel, Netlify
-
 ----
-
-## 📚 Currently Learning
-
-* **Cloud Deployment**
-* **DevOps Practices**
-
----
 
 ## 📫 Connect With Me
 
