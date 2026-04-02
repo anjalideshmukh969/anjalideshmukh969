@@ -38,15 +38,12 @@ https://portfolio-amber-nine-53.vercel.app/
 * TypeScript
 * Zustand
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development & 🗄️ Databases
 
 * Node.js
 * Express.js
 * REST APIs
 * Authentication (JWT / OAuth)
-
-### 🗄️ Databases
-
 * MongoDB
 * PostgreSQL
 
