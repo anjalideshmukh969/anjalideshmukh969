@@ -1,11 +1,11 @@
  **Full Stack Developer (MERN)**
 
-Aspiring Software Developer with hands-on experience building scalable, responsive, and user-centric web applications using the MERN stack.
+Aspiring Software Developer with hands-on experience building scalable, responsive, and user-centric web applications using MERN stack.
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently exploring ****DevOps tools
+* 🌱 Currently exploring ****DevOps and system design
 * ⚡ Building scalable apps using **MERN Stack**
 * 🧠 Passionate about building scalable web applications and writing efficient code**
 
@@ -44,13 +44,12 @@ https://portfolio-amber-nine-53.vercel.app/
 * Express.js
 * REST APIs
 * Authentication (JWT / OAuth)
-* MongoDB
+* MongoDB/NoSQL
 * PostgreSQL
 
 ### ☁️ DevOps & Developer Tools
 
-* Git
-* GitHub
+* Git & GitHub
 * CI/CD pipeline Basics
 * Docker (Basic)
 * Linux CLI
@@ -59,13 +58,6 @@ https://portfolio-amber-nine-53.vercel.app/
 * GitHub Actions
 * npm,npx
 * Render ,Vercel, Netlify
-
-### 🤖 AI & APIs
-
-* Gemini API
-* Web Speech API
-* REST APIs
-* AI Integration in Web Apps
 
 ----
 
