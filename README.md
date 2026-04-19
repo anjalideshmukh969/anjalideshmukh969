@@ -47,8 +47,6 @@ https://portfolio-amber-nine-53.vercel.app/
 
 * Git & GitHub
 * CI/CD pipeline Basics
-* Docker (Basic)
-* Linux CLI
 * VS Code
 * Postman
 * GitHub Actions
