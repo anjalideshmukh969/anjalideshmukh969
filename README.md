@@ -23,7 +23,6 @@ https://portfolio-amber-nine-53.vercel.app/
 ### 💻 Programming Languages
 
 * JavaScript
-* Python
 * SQL
 * Scripting and styling languages (HTML5 & CSS3)
 
@@ -33,10 +32,7 @@ https://portfolio-amber-nine-53.vercel.app/
 * HTML5
 * CSS3
 * JavaScript (ES6+)
-* Responsive Web Design
 * Tailwind CSS
-* TypeScript
-* Zustand
 
 ### ⚙️ Backend Development & 🗄️ Databases
 
