@@ -5,7 +5,6 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 
 ## 🚀 About Me
 
-* 🌱 Currently exploring ****DevOps and system design
 * ⚡ Building scalable apps using **MERN Stack**
 * 🧠 Passionate about building scalable web applications and writing efficient code**
 
@@ -23,7 +22,6 @@ https://portfolio-amber-nine-53.vercel.app/
 ### 💻 Programming Languages
 
 * JavaScript
-* SQL
 * Scripting and styling languages (HTML5 & CSS3)
 
 ### 🌐 Frontend Development
@@ -40,8 +38,6 @@ https://portfolio-amber-nine-53.vercel.app/
 * Express.js
 * REST APIs
 * Authentication (JWT / OAuth)
-* MongoDB/NoSQL
-* PostgreSQL
 
 ### ☁️ DevOps & Developer Tools
 
@@ -49,7 +45,6 @@ https://portfolio-amber-nine-53.vercel.app/
 * CI/CD pipeline Basics
 * VS Code
 * Postman
-* GitHub Actions
 * npm,npx
 * Render ,Vercel, Netlify
 
