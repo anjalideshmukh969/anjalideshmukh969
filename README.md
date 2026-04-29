@@ -31,6 +31,8 @@ https://portfolio-amber-nine-53.vercel.app/
 * CSS3
 * JavaScript (ES6+)
 * Tailwind CSS
+* Typescript
+
 
 ### ⚙️ Backend Development & 🗄️ Databases
 
