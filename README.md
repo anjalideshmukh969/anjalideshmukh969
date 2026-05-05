@@ -30,7 +30,7 @@ https://portfolio-amber-nine-53.vercel.app/
 * HTML5
 * CSS3
 * JavaScript (ES6+)
-* Tailwind CSS
+* Tailwind CSS, shadcn
 * Typescript
 
 
@@ -40,6 +40,7 @@ https://portfolio-amber-nine-53.vercel.app/
 * Express.js
 * REST APIs
 * Authentication (JWT / OAuth)
+* Firebase 
 
 ### ☁️ DevOps & Developer Tools
 
