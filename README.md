@@ -1,62 +1,137 @@
- **Full Stack Developer (MERN)**
+<h1 align="center">Hi 👋, I'm Anjali Deshmukh</h1>
 
-Aspiring Software Developer with hands-on experience building scalable, responsive, and user-centric web applications using MERN stack.
+<h3 align="center">Full Stack Developer (MERN) | Building Scalable & User-Centric Web Applications</h3>
+
 ---
 
 ## 🚀 About Me
 
-* ⚡ Building scalable apps using **MERN Stack**
-* 🧠 Passionate about building scalable web applications and writing efficient code**
+Aspiring Software Developer with hands-on experience building scalable, responsive, and user-centric web applications using the MERN stack.
 
-------
+- ⚡ Building modern full-stack applications using **MongoDB, Express.js, React.js, and Node.js**
+- 🧠 Passionate about writing clean, efficient, and scalable code
+- 🌱 Continuously learning new technologies and improving development skills
+- 💡 Interested in full-stack development, modern UI/UX, and scalable backend systems
+- 🚀 Love transforming ideas into impactful real-world products
 
+---
 
-### Personal Portfolio 
+## 🌐 Personal Portfolio
 
-https://portfolio-amber-nine-53.vercel.app/
+🔗 **Portfolio Website**  
+👉 [portfolio-amber-nine-53.vercel.app](https://portfolio-amber-nine-53.vercel.app/)
 
---
+---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
 
-* JavaScript
-* Scripting and styling languages (HTML5 & CSS3)
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css,ts" />
+</p>
+
+---
 
 ### 🌐 Frontend Development
 
-* React.js
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Tailwind CSS, shadcn
-* Typescript
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Tailwind CSS
+- shadcn/ui
+- Responsive Web Design
 
-### ⚙️ Backend Development & 🗄️ Databases
+---
 
-* Node.js
-* Express.js
-* REST APIs
-* Authentication (JWT / OAuth)
-* Firebase 
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+- Node.js
+- Express.js
+- REST APIs
+- JWT / OAuth Authentication
+- Firebase Authentication
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+- MongoDB
+- Database Design & CRUD Operations
+
+---
 
 ### ☁️ DevOps & Developer Tools
 
-* Git & GitHub
-* CI/CD pipeline Basics
-* VS Code
-* Postman
-* npm,npx
-* Render ,Vercel, Netlify
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,render,npm" />
+</p>
 
-----
+- Git & GitHub
+- CI/CD Pipeline Basics
+- VS Code
+- Postman
+- npm / npx
+- Vercel, Render & Netlify
+
+---
+
+## 🚀 Featured Project
+
+### 🤖 MockMentor — AI-Powered Mock Interview Platform
+
+AI-driven platform that helps students prepare for interviews through:
+- Personalized AI-generated interview questions
+- Technical & HR interview simulations
+- Intelligent performance feedback
+- Resume-based interview generation
+- Razorpay payment integration
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjalideshmukh969&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalideshmukh969&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalideshmukh969&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/anjalideshmukh969
-* Liinkdin: https://www.linkedin.com/in/anjalideshmukh-
+<p align="left">
+
+<a href="https://github.com/anjalideshmukh969" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/anjalideshmukh-" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+</p>
+
 ---
 
-⭐ *Always curious to learn new technologies and build impactful softwares.*
+<h3 align="center">⭐ Always curious to learn new technologies and build impactful software.</h3>
