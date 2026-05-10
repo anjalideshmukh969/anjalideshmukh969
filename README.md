@@ -89,33 +89,6 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 
 ---
 
-## 🚀 Featured Project
-
-### 🤖 MockMentor — AI-Powered Mock Interview Platform
-
-AI-driven platform that helps students prepare for interviews through:
-- Personalized AI-generated interview questions
-- Technical & HR interview simulations
-- Intelligent performance feedback
-- Resume-based interview generation
-- Razorpay payment integration
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjalideshmukh969&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalideshmukh969&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalideshmukh969&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
