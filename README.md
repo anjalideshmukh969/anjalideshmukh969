@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Deshmukh</h1>
 
-<h3 align="center">Full Stack Developer (MERN) | Building Scalable & User-Centric Web Applications</h3>
+<h3 align="center">Full Stack Developer (MERN) | Building Scalable & User-Centric Web Applications | Open Source Contributor</h3>
 
 ---
 
