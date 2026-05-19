@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Aspiring Software Developer with hands-on experience building scalable, responsive, and user-centric web applications using the MERN stack.
+Software Developer with hands-on experience building scalable, responsive, and user-centric web applications.
 
 - ⚡ Building modern full-stack applications.
 - 🧠 Passionate about writing clean, efficient, and scalable code.
@@ -42,8 +42,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 - TypeScript
 - JavaScript (ES6+)
 - HTML5 & CSS3
-- Tailwind CSS
-- shadcn/ui
+- Tailwind CSS, shadcn/ui
 - Responsive Web Design
 - Next.js
 
@@ -60,7 +59,6 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 - Next.js
 - REST APIs
 - JWT / OAuth Authentication
-- Firebase Authentication
 
 ---
 
@@ -84,7 +82,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 - Git & GitHub
 - CI/CD Pipeline
 - VS Code
-- Postman
+- Postman, Compass
 - npm / npx, pip
 - Vercel, Render , Railway & Netlify
 
