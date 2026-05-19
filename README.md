@@ -8,11 +8,10 @@
 
 Aspiring Software Developer with hands-on experience building scalable, responsive, and user-centric web applications using the MERN stack.
 
-- ⚡ Building modern full-stack applications using **MongoDB, Express.js, React.js, and Node.js**
-- 🧠 Passionate about writing clean, efficient, and scalable code
-- 🌱 Continuously learning new technologies and improving development skills
-- 💡 Interested in full-stack development, modern UI/UX, and scalable backend systems
-- 🚀 Love transforming ideas into impactful real-world products
+- ⚡ Building modern full-stack applications.
+- 🧠 Passionate about writing clean, efficient, and scalable code.
+- 🌱 Continuously learning new technologies and improving development skills.
+- 🚀 Love transforming ideas into impactful real-world products.
 
 ---
 
@@ -46,6 +45,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 - Tailwind CSS
 - shadcn/ui
 - Responsive Web Design
+- Next.js
 
 ---
 
@@ -57,6 +57,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 
 - Node.js
 - Express.js
+- Next.js
 - REST APIs
 - JWT / OAuth Authentication
 - Firebase Authentication
@@ -70,7 +71,7 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 </p>
 
 - MongoDB
-- Database Design & CRUD Operations
+- PostgreSQL
 
 ---
 
@@ -81,11 +82,11 @@ Aspiring Software Developer with hands-on experience building scalable, responsi
 </p>
 
 - Git & GitHub
-- CI/CD Pipeline Basics
+- CI/CD Pipeline
 - VS Code
 - Postman
-- npm / npx
-- Vercel, Render & Netlify
+- npm / npx, pip
+- Vercel, Render , Railway & Netlify
 
 ---
 ---
