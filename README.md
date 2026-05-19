@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anjali Deshmukh</h1>
 
-<h3 align="center">Full Stack Developer (MERN) | Building Scalable & User-Centric Web Applications | Open Source Contributor</h3>
+<h3 align="center">
+Full Stack Developer | MERN & Next.js Developer | Building AI-Powered & Scalable Web Applications
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-Software Developer with hands-on experience building scalable, responsive, and user-centric web applications.
+Passionate Full Stack Developer with experience building scalable, responsive, and user-centric web applications using modern web technologies.
 
-- ⚡ Building modern full-stack applications.
-- 🧠 Passionate about writing clean, efficient, and scalable code.
-- 🌱 Continuously learning new technologies and improving development skills.
+- ⚡ Building modern full-stack and AI-powered applications.
+- 🧠 Passionate about clean architecture, scalable systems, and problem solving.
+- 🌱 Currently exploring AI/ML integration with web applications.
 - 🚀 Love transforming ideas into impactful real-world products.
+- 💡 Interested in Healthcare Tech, AI Systems, and Product Development.
 
 ---
 
@@ -27,45 +30,64 @@ Software Developer with hands-on experience building scalable, responsive, and u
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css,ts" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python" />
 </p>
+
+- JavaScript (ES6+)
+- Python
+- HTML5 & CSS3
 
 ---
 
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 - React.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Tailwind CSS, shadcn/ui
-- Responsive Web Design
 - Next.js
+- Tailwind CSS
+- Framer Motion
+- Responsive Web Design
+- shadcn/ui
 
 ---
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,fastapi" />
 </p>
 
 - Node.js
 - Express.js
-- Next.js
+- Next.js API Routes
+- FastAPI
 - REST APIs
 - JWT / OAuth Authentication
+
+---
+
+### 🤖 AI / ML & OCR
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- OCR Processing
+- FastAPI ML Services
+- OpenCV
+- EasyOCR
+- AI-powered Text Analysis
+- NLP Fundamentals
 
 ---
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 - MongoDB
@@ -80,13 +102,21 @@ Software Developer with hands-on experience building scalable, responsive, and u
 </p>
 
 - Git & GitHub
-- CI/CD Pipeline
 - VS Code
-- Postman, Compass
-- npm / npx, pip
-- Vercel, Render , Railway & Netlify
+- Postman
+- MongoDB Compass
+- npm / npx / pip
+- Vercel, Render, Railway & Netlify
 
 ---
+
+## 📌 Current Focus
+
+- Building AI-powered healthcare applications
+- Learning Machine Learning & OCR systems
+- Improving backend architecture & scalable APIs
+- Exploring real-world AI integrations with web apps
+
 ---
 
 ## 📫 Connect With Me
@@ -105,4 +135,6 @@ Software Developer with hands-on experience building scalable, responsive, and u
 
 ---
 
-<h3 align="center">⭐ Always curious to learn new technologies and build impactful software.</h3>
+<h3 align="center">
+⭐ Always curious to learn emerging technologies and build impactful software.
+</h3>
