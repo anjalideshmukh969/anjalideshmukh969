@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Deshmukh</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN & Next.js Developer | Building AI-Powered & Scalable Web Applications
+Full Stack Developer | Open Source Contributor 
 </h3>
 
 ---
@@ -12,9 +12,8 @@ Passionate Full Stack Developer with experience building scalable, responsive, a
 
 - ⚡ Building modern full-stack and AI-powered applications.
 - 🧠 Passionate about clean architecture, scalable systems, and problem solving.
-- 🌱 Currently exploring AI/ML integration with web applications.
+- 🌱 Currently exploring AI/ML & DevOps.
 - 🚀 Love transforming ideas into impactful real-world products.
-- 💡 Interested in Healthcare Tech, AI Systems, and Product Development.
 
 ---
 
@@ -47,10 +46,9 @@ Passionate Full Stack Developer with experience building scalable, responsive, a
 
 - React.js
 - Next.js
-- Tailwind CSS
+- Tailwind CSS, shadcn/ui
 - Framer Motion
 - Responsive Web Design
-- shadcn/ui
 
 ---
 
@@ -62,26 +60,12 @@ Passionate Full Stack Developer with experience building scalable, responsive, a
 
 - Node.js
 - Express.js
-- Next.js API Routes
+- Next.js 
 - FastAPI
 - REST APIs
 - JWT / OAuth Authentication
 
 ---
-
-### 🤖 AI / ML & OCR
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- OCR Processing
-- FastAPI ML Services
-- OpenCV
-- EasyOCR
-- AI-powered Text Analysis
-- NLP Fundamentals
-
 ---
 
 ### 🗄️ Databases
@@ -107,15 +91,6 @@ Passionate Full Stack Developer with experience building scalable, responsive, a
 - MongoDB Compass
 - npm / npx / pip
 - Vercel, Render, Railway & Netlify
-
----
-
-## 📌 Current Focus
-
-- Building AI-powered healthcare applications
-- Learning Machine Learning & OCR systems
-- Improving backend architecture & scalable APIs
-- Exploring real-world AI integrations with web apps
 
 ---
 
