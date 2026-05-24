@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Deshmukh</h1>
 
 <h3 align="center">
-Full Stack Developer | Open Source Contributor 
+Full Stack web Developer | Open Source Contributor 
 </h3>
 
 ---
