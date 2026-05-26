@@ -8,7 +8,7 @@ Full Stack web Developer | Open Source Contributor
 
 ## 🚀 About Me
 
-Passionate Full Stack Developer with experience building scalable, responsive, and user-centric web applications using modern web technologies.
+Aspiring Software Developer with experience building scalable, responsive, and user-centric web applications using modern web technologies.
 
 - ⚡ Building modern full-stack and AI-powered applications.
 - 🧠 Passionate about clean architecture, scalable systems, and problem solving.
