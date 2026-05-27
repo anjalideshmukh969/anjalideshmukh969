@@ -111,5 +111,5 @@ Aspiring Software Developer with experience building scalable, responsive, and u
 ---
 
 <h3 align="center">
-⭐ Always curious to learn emerging technologies and build impactful software.
+Always curious to learn emerging technologies.
 </h3>
