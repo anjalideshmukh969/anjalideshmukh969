@@ -33,7 +33,6 @@ Software Developer with experience building scalable, responsive, and user-centr
 </p>
 
 - JavaScript (ES6+)
-- Python
 - HTML5 & CSS3
 
 ---
