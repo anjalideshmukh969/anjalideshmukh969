@@ -13,7 +13,7 @@ Software Developer with experience building scalable, responsive, and user-centr
 - ⚡ Building modern full-stack and AI-powered applications.
 - 🧠 Passionate about clean architecture, scalable systems, and problem solving.
 - 🌱 Currently exploring AI/ML & DevOps.
-- 🚀 Love transforming ideas into impactful real-world products.
+- 🚀 Love transforming ideas into impactful real-world products
 
 ---
 
