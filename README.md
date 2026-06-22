@@ -89,7 +89,7 @@ Software Developer with experience building scalable, responsive, and user-centr
 - Postman
 - MongoDB Compass
 - npm / npx / pip
-- Vercel, Render, Railway & Netlify
+- Vercel, Render, Railway & Netlify, postman
 
 ---
 
