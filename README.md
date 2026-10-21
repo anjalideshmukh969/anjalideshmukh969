@@ -34,6 +34,8 @@ Software Developer with experience building scalable, responsive, and user-centr
 
 - JavaScript (ES6+)
 - HTML5 & CSS3
+- python
+- Javan 
 
 ---
 
@@ -45,8 +47,7 @@ Software Developer with experience building scalable, responsive, and user-centr
 
 - React.js
 - Next.js
-- Tailwind CSS, shadcn/ui
-- Framer Motion
+- Tailwind CSS
 - Responsive Web Design
 
 ---
@@ -88,6 +89,7 @@ Software Developer with experience building scalable, responsive, and user-centr
 - VS Code
 - Postman
 - IntelliJ IDEA
+- Jupyter Notebook
 - MongoDB Compass
 - npm / npx / pip
 - Vercel, Render, Railway & Netlify, postman
