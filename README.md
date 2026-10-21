@@ -87,6 +87,7 @@ Software Developer with experience building scalable, responsive, and user-centr
 - Git & GitHub
 - VS Code
 - Postman
+- IntelliJ IDEA
 - MongoDB Compass
 - npm / npx / pip
 - Vercel, Render, Railway & Netlify, postman
