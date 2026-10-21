@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anjali Deshmukh</h1>
 
 <h3 align="center">
-Full Stack web Developer | Open Source Contributor 
+Full Stack web Developer | Open Source Contributor | Aspiring ML engineer
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-Software Developer with experience building scalable, responsive, and user-centric web applications using modern web technologies.
+Software Developer and aspiring ML engineer with experience building scalable, responsive, and user-centric web applications using modern web technologies.
 
 - ⚡ Building modern full-stack and AI-powered applications.
 - 🧠 Passionate about clean architecture, scalable systems, and problem solving.
@@ -35,7 +35,7 @@ Software Developer with experience building scalable, responsive, and user-centr
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - python
-- Javan 
+- Java
 
 ---
 
