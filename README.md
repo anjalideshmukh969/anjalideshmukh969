@@ -8,7 +8,7 @@ Full Stack web Developer | Open Source Contributor | Aspiring ML engineer
 
 ## 🚀 About Me
 
-Software Developer and aspiring ML engineer with experience building scalable, responsive, and user-centric web applications using modern web technologies.
+Aspiring ML engineer and Software Developer with experience building scalable, responsive, and user-centric web applications using modern web technologies.
 
 - ⚡ Building modern full-stack and AI-powered applications.
 - 🧠 Passionate about clean architecture, scalable systems, and problem solving.
