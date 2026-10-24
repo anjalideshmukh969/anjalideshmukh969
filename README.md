@@ -108,6 +108,10 @@ Aspiring ML engineer and Software Developer with experience building scalable, r
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
+<a href="https://www.codolio.com/in/anjalideshmukkh" target="_blank">
+<img src="https://skillicons.dev/icons?i=codolio" width="45" />
+</a>
+
 </p>
 
 ---
