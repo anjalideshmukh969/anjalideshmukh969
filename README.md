@@ -26,7 +26,7 @@ Aspiring ML engineer and Software Developer with experience building scalable, r
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
+### 💻Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,html,css,python" />
@@ -48,7 +48,6 @@ Aspiring ML engineer and Software Developer with experience building scalable, r
 - React.js
 - Next.js
 - Tailwind CSS
-- Responsive Web Design
 
 ---
 
@@ -61,7 +60,6 @@ Aspiring ML engineer and Software Developer with experience building scalable, r
 - Node.js
 - Express.js
 - Next.js 
-- FastAPI
 - REST APIs
 - JWT / OAuth Authentication
 
