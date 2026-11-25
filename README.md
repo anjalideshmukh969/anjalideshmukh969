@@ -88,6 +88,7 @@ Aspiring ML engineer and Software Developer with experience building scalable, r
 - VS Code
 - Postman
 - IntelliJ IDEA
+- Jupeter Notebook
 - Jupyter Notebook
 - MongoDB Compass
 - npm / npx / pip
